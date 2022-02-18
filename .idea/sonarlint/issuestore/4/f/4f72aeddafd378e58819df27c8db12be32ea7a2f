@@ -1,0 +1,45 @@
+
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åÑ³Îûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Æž²ºûÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(èÆ¯š
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ôÈ”•
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(–èùðýÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(¬úåˆ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ÜØ£ü
+V
+java:S1854<";Remove this useless assignment to local variable "checker".(÷Ö³ôÿÿÿÿÿ
+G
+java:S1481<",Remove this unused "checker" local variable.(÷Ö³ôÿÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.( §¬úûÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(Í‡¡ßúÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(þàÏÁøÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(½õ–¼øÿÿÿÿ
+q
+java:S2159O"VRemove this call to "equals"; comparisons between unrelated types always return false.(…œ‚Êýÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(É…çûúÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(†Õ¯¼ÿÿÿÿÿ
+q
+java:S2159W"VRemove this call to "equals"; comparisons between unrelated types always return false.(…œ‚Êýÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ž¥¸ˆ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ª°Áöùÿÿÿÿ
+q
+java:S2159`"VRemove this call to "equals"; comparisons between unrelated types always return false.(…œ‚Êýÿÿÿÿ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(‚¿€˜
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(¦µÆ¿
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(¶ŸÁø
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(ðšœí
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(Ã¡Ùæ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(‡¨–Çüÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‡¨–Çüÿÿÿÿ
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(¨ë™Ê
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Ô”—Ý
+d	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìë¿Ó
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(ÒðÀÖ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(ë»‘øúÿÿÿÿ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(•»ûâûÿÿÿÿ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(—Ð†Ãþÿÿÿÿ
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(¦Ýöªýÿÿÿÿ
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(¦¾á
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8•üçï/
